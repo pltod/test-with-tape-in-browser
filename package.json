@@ -1,0 +1,22 @@
+{
+  "name": "tape-in-the-browser",
+  "version": "0.0.1",
+  "description": "Visualise tape test suite in the browser with ripple",
+  "devDependencies": {
+    "tape": "*",
+    "ripplejs": "0.4.0",
+    "ripplejs-each": "0.4.1",
+    "browserify": "*",
+    "watchify": "*"
+  },
+  "scripts": {
+    "build": "watchify test/index.js -o build/bundle.js --debug --verbose"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": {
+    "name": "pltod"
+  },
+  "license": "MIT"
+}
