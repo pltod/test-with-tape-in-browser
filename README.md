@@ -4,7 +4,7 @@ Visualise tape test suite in the browser with ripple.
 
 Open build/index.html inside the browser:
 
-![](https://github.com/pltod/lab-testing/blob/master/images/test-results-browser.png)
+![](https://github.com/pltod/test-with-tape-in-browser/blob/master/images/test-results-browser.png)
 
 
 
